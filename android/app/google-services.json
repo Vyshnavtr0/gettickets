@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "252638141151",
+    "project_id": "gettickets-d6abf",
+    "storage_bucket": "gettickets-d6abf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252638141151:android:6b01434b3050685c49a76a",
+        "android_client_info": {
+          "package_name": "com.vyshnav.getickets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252638141151-nmm4fooonbcj2hfqpl30aakth2tfobj8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vyshnav.getickets",
+            "certificate_hash": "759966f6a5335adf1f8b05799cd57f3b9ce80775"
+          }
+        },
+        {
+          "client_id": "252638141151-kncf14o6f0qb3u71tpem220h6lko31rm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGROXCS7FE1JpvtWdJ-lWRs1bHg0l3c4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252638141151-kncf14o6f0qb3u71tpem220h6lko31rm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
